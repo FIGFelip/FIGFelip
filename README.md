@@ -7,14 +7,14 @@ Olá, me chamo Felipe Gonçalves Figueiredo Santana, 22 anos, cursando Análise 
 ### **Cursos e certificações**
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Google" 
+    title="Google"
     width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" 
 />
 
-#### [Google Data Analytics]("https://coursera.org/share/4900d8d460188682ba5aa3cba24456ca")
+#### [Google Data Analytics](https://coursera.org/share/4900d8d460188682ba5aa3cba24456ca)
 
 
 ### **Linguagens e tecnologias**
