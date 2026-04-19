@@ -88,6 +88,11 @@ Olá, me chamo Felipe Gonçalves Figueiredo Santana, cursando Análise e Desenvo
 <br/>
 <br/>
 
+### Stack principal
+- NodeJS (Backend)
+- ReactJS (Frontend)
+- SQL Queries (Databases)
+
 ### **Estatísticas**
 
 <img 
