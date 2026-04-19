@@ -2,7 +2,7 @@
 
 **`Dev fullstack`**
 
-Olá, me chamo Felipe Gonçalves Figueiredo Santana, 22 anos, cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá, Aracaju-SE. Desenvolvo APIs REST e aplicações fullstack com banco de dados relacional.
+Olá, me chamo Felipe Gonçalves Figueiredo Santana, cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá, Aracaju-SE. Desenvolvo APIs REST e aplicações fullstack com banco de dados relacional.
 
 ### **Cursos e certificações**
 <img 
