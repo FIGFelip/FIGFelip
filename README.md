@@ -100,5 +100,5 @@ Olá, me chamo Felipe Gonçalves Figueiredo Santana, cursando Análise e Desenvo
     alt="Github stats" 
     height="200"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FIGFelip&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=FIGFelip&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
 />
